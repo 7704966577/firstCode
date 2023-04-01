@@ -1,7 +1,7 @@
 import './page2.css'
 
 const Page2  =  () =>{
-return (<div >
+return (<div id="page2">
 <h1> hello page 2 web</h1>
 
 </div>)
