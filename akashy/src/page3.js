@@ -2,7 +2,7 @@
 
 const Page3  =  () =>{
 return (<div id="page3" >
-<h1> akash yadav git</h1>
+<h1> AARAV YADAV</h1>
 
 </div>)
 }
