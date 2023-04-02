@@ -1,8 +1,8 @@
-import './page3.css'
+
 
 const Page3  =  () =>{
 return (<div id="page3" >
-<h1> hello page 3 web</h1>
+<h1> akash yadav git</h1>
 
 </div>)
 }
